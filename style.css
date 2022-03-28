@@ -18,6 +18,10 @@ body{
     justify-content:space-around;
 }
 
+.header.recipe-page{
+    flex-direction: column;
+}
+
 .nav-bar{
     display: flex;
     flex-direction: column;
