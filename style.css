@@ -12,3 +12,27 @@ body{
     align-items: center;
     justify-content:space-around;
 }
+
+.nav-bar{
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 20em;
+    justify-content: space-around;
+    list-style-type: none;
+    margin-top: 10%;
+}
+
+.page-link{
+    text-decoration: none;
+    color: gainsboro;
+    background-color: #595959;
+    font-size: 30px;
+    border-radius: 30px;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
