@@ -65,6 +65,7 @@ body{
     color: #595959;
     margin-left: 9%;
     margin-right: 9%;
+    margin-bottom: 5%;
 }
 
 li{
@@ -78,4 +79,18 @@ p{
 
 h2{
     font-size: 26px;
+}
+
+.index-link{
+    text-align: center;
+    text-decoration: none;
+    color: gainsboro;
+    background-color: #595959;
+    font-size: 20px;
+    border-radius: 30px;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    margin-left: 9%;
 }
