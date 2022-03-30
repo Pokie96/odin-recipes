@@ -10,6 +10,12 @@ body{
     text-decoration: underline;
 }
 
+.title.index{
+    position: relative;
+    right: 6%;
+    font-size: 60px;
+}
+
 .header{
     max-width: 100%;
     position: relative;
