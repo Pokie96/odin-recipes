@@ -43,3 +43,39 @@ body{
     padding-top: .5em;
     padding-bottom: .5em;
 }
+
+.description{
+    display: flex;
+    flex-direction: column;
+    color: #595959;
+    align-items: center;
+}
+
+.ingredients{
+    display: flex;
+    flex-direction: column;
+    color: #595959;
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+.steps{
+    display: flex;
+    flex-direction: column;
+    color: #595959;
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+li{
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+h2{
+    font-size: 26px;
+}
