@@ -92,5 +92,9 @@ h2{
     padding-right: 1em;
     padding-top: .5em;
     padding-bottom: .5em;
-    margin-left: 9%;
+    margin-left: 9%; 
+}
+
+.page-footer{
+    height: 30px;
 }
